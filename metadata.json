@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Balkrishan Prajapat Portfolio",
+  "description": "Premium Apple-style interactive portfolio and AI-agent assistant for Balkrishan Prajapat, Software Developer \u0026 AI Engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
